@@ -1,0 +1,71 @@
+name: english
+description: "Flutter FE kết nối Python BE (Flask/FastAPI)"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.7.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 🌈 Icon cơ bản iOS-style
+  cupertino_icons: ^1.0.8
+
+  # 🌐 Gọi API Flask / FastAPI
+  http: ^1.5.0
+
+  # 🖼️ Chọn ảnh từ thư viện/camera (Để đổi Avatar)
+  image_picker: ^1.0.7 # ✅ Thêm dòng này
+
+  # 💾 Lưu token, cấu hình người dùng, path avatar
+  shared_preferences: ^2.3.2
+
+  # ⚙️ Quản lý biến môi trường (.env)
+  flutter_dotenv: ^5.1.0
+
+  # 🔊 Text-to-Speech – để đọc câu hỏi IELTS
+  flutter_tts: ^4.2.3
+
+  # 🎙️ Speech-to-Text – nhận giọng nói
+  speech_to_text: ^7.3.0
+
+  # 🎧 Ghi âm file audio để gửi về Flask (ASR)
+  record: ^6.1.2
+
+  # 🗂️ Quản lý thư mục tạm, lưu file ghi âm
+  path_provider: ^2.1.5
+
+  # 🪪 Xin quyền micro, ghi âm, thư viện ảnh (Android/iOS)
+  permission_handler: ^12.0.1
+
+  # ✍️ Hiển thị nội dung Markdown từ AI
+  flutter_markdown: ^0.6.17
+
+  # 💫 Hiệu ứng animation mượt mà
+  animations: ^2.0.11
+
+  # 🎨 Font Google
+  google_fonts: ^6.2.1
+
+  # 🌀 Hiển thị loading đẹp (shimmer effect)
+  shimmer: ^3.0.0
+
+  # 🎵 Phát audio (dùng cho Listening)
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # 🗃️ Các file dữ liệu JSON cục bộ
+  assets:
+    - assets/vocabulary.json
+    - assets/data.json
+    - assets/app_info.json

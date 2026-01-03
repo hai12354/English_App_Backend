@@ -1,0 +1,40 @@
+# --- Cấu trúc chung (Cho cả FE và BE) ---
+node_modules/
+**/node_modules/
+.env
+**/ai.env
+.DS_Store
+Thumbs.db
+
+# --- Backend (Python/Nodejs) ---
+__pycache__/
+*.pyc
+venv/
+.venv
+*.log
+*.swp
+.history
+
+# --- Frontend/Mobile (Flutter/Dart/React) ---
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+**/build/
+/coverage/
+app.*.symbols
+app.*.map.json
+
+# --- Android Build Artifacts ---
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# --- IDEs (IntelliJ/VSCode) ---
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+.atom/

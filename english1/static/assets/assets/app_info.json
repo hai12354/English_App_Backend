@@ -1,0 +1,20 @@
+{
+  "about": [
+    {
+      "title": "Học tập thông minh:",
+      "desc": "Ứng dụng cung cấp lộ trình học cá nhân hóa, giúp bạn ghi nhớ từ vựng và ngữ pháp thông qua các bài tập tương tác sinh động thay vì cách học vẹt truyền thống."
+    },
+    {
+      "title": "Phát triển kỹ năng:",
+      "desc": "Cải thiện toàn diện kỹ năng Nghe - Nói - Đọc - Viết. Đặc biệt, công nghệ nhận diện giọng nói AI sẽ hỗ trợ bạn luyện phát âm chuẩn như người bản xứ."
+    },
+    {
+      "title": "Động lực mỗi ngày:",
+      "desc": "Hệ thống tính điểm kinh nghiệm (XP) và chuỗi ngày học tập (Streak) giúp bạn duy trì thói quen học tiếng Anh đều đặn và đầy thú vị."
+    },
+    {
+      "title": "Mọi lúc mọi nơi:",
+      "desc": "Nội dung bài học được thiết kế tinh gọn, phù hợp để bạn có thể tranh thủ học tập hiệu quả chỉ với 15 phút mỗi ngày ngay trên điện thoại."
+    }
+  ]
+}

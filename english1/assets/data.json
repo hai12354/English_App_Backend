@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "listening_001",
+    "transcript": "The speaker talks about daily routines like waking up early and going to school.",
+    "questions": [
+      {
+        "question": "What is the main topic of the audio?",
+        "options": ["Daily routines", "Travel", "Music", "Shopping"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_001.mp3"
+  },
+  {
+    "id": "listening_002",
+    "transcript": "The speaker describes a trip to Paris and visiting the Eiffel Tower.",
+    "questions": [
+      {
+        "question": "Which city is mentioned in the audio?",
+        "options": ["London", "Paris", "Rome", "Berlin"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_002.mp3"
+  },
+  {
+    "id": "listening_003",
+    "transcript": "The speaker explains how to cook a simple pasta dish.",
+    "questions": [
+      {
+        "question": "What type of food is prepared?",
+        "options": ["Soup", "Pasta", "Pizza", "Rice"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_003.mp3"
+  },
+  {
+    "id": "listening_004",
+    "transcript": "The speaker talks about the role of smartphones in daily life.",
+    "questions": [
+      {
+        "question": "What technology is discussed?",
+        "options": ["Computer", "Smartphone", "Television", "Radio"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_004.mp3"
+  },
+  {
+    "id": "listening_005",
+    "transcript": "The speaker explains the causes of climate change.",
+    "questions": [
+      {
+        "question": "What is the main topic of the audio?",
+        "options": ["Sports", "Climate change", "Shopping", "Music"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_005.mp3"
+  },
+  {
+    "id": "listening_006",
+    "transcript": "The speaker gives advice on staying healthy by exercising.",
+    "questions": [
+      {
+        "question": "What is recommended to stay healthy?",
+        "options": ["Exercising", "Sleeping late", "Watching TV", "Eating fast food"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_006.mp3"
+  },
+  {
+    "id": "listening_007",
+    "transcript": "The speaker tells a story about an ancient civilization.",
+    "questions": [
+      {
+        "question": "What is the main subject of the audio?",
+        "options": ["Sports", "History", "Music", "Food"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_007.mp3"
+  },
+  {
+    "id": "listening_008",
+    "transcript": "The speaker describes a football match between two teams.",
+    "questions": [
+      {
+        "question": "What sport is discussed?",
+        "options": ["Tennis", "Basketball", "Football", "Swimming"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_008.mp3"
+  },
+  {
+    "id": "listening_009",
+    "transcript": "The speaker talks about different teaching methods in schools.",
+    "questions": [
+      {
+        "question": "What is the main topic?",
+        "options": ["Education", "Shopping", "Health", "Food"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_009.mp3"
+  },
+  {
+    "id": "listening_010",
+    "transcript": "The speaker describes the weather as sunny with rain in the evening.",
+    "questions": [
+      {
+        "question": "What is the weather forecast?",
+        "options": ["Sunny with rain", "Snowy", "Stormy", "Cloudy"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_010.mp3"
+  },
+  {
+    "id": "listening_011",
+    "transcript": "The speaker introduces a new music album.",
+    "questions": [
+      {
+        "question": "What is being introduced?",
+        "options": ["Book", "Film", "Music album", "Food"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_011.mp3"
+  },
+  {
+    "id": "listening_012",
+    "transcript": "The speaker explains the traditions of a cultural festival.",
+    "questions": [
+      {
+        "question": "What event is discussed?",
+        "options": ["Festival", "Concert", "Exhibition", "Exam"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_012.mp3"
+  },
+  {
+    "id": "listening_013",
+    "transcript": "The speaker talks about going shopping in a supermarket.",
+    "questions": [
+      {
+        "question": "Where does the speaker go?",
+        "options": ["School", "Gym", "Supermarket", "Library"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_013.mp3"
+  },
+  {
+    "id": "listening_014",
+    "transcript": "The speaker describes animals in a safari park.",
+    "questions": [
+      {
+        "question": "Where are the animals?",
+        "options": ["Zoo", "Safari park", "Farm", "Forest"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_014.mp3"
+  },
+  {
+    "id": "listening_015",
+    "transcript": "The speaker explains a science experiment about air pressure.",
+    "questions": [
+      {
+        "question": "What is the experiment about?",
+        "options": ["Electricity", "Air pressure", "Cooking", "Music"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_015.mp3"
+  },
+  {
+    "id": "listening_016",
+    "transcript": "The speaker talks about Christmas traditions like decorating trees.",
+    "questions": [
+      {
+        "question": "What holiday is mentioned?",
+        "options": ["Easter", "Christmas", "New Year", "Halloween"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_016.mp3"
+  },
+  {
+    "id": "listening_017",
+    "transcript": "The speaker explains the value of friendship.",
+    "questions": [
+      {
+        "question": "What is the main topic?",
+        "options": ["Friendship", "Work", "Sports", "Shopping"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_017.mp3"
+  },
+  {
+    "id": "listening_018",
+    "transcript": "The speaker describes a busy office and work tasks.",
+    "questions": [
+      {
+        "question": "Where does this take place?",
+        "options": ["Hospital", "Market", "Office", "School"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_018.mp3"
+  },
+  {
+    "id": "listening_019",
+    "transcript": "The speaker explains facts about the solar system.",
+    "questions": [
+      {
+        "question": "What topic is discussed?",
+        "options": ["Space", "Music", "Sports", "History"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_019.mp3"
+  },
+  {
+    "id": "listening_020",
+    "transcript": "The speaker talks about the importance of exercise for health.",
+    "questions": [
+      {
+        "question": "What activity is important for health?",
+        "options": ["Exercise", "Watching TV", "Shopping", "Driving"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_020.mp3"
+  },
+  {
+    "id": "listening_021",
+    "transcript": "The speaker gives tips on how to take better photos, focusing on lighting and composition.",
+    "questions": [
+      {
+        "question": "What hobby is being discussed?",
+        "options": ["Painting", "Gardening", "Photography", "Cooking"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_021.mp3"
+  },
+  {
+    "id": "listening_022",
+    "transcript": "The speaker explains the steps for planting vegetable seeds in a home garden.",
+    "questions": [
+      {
+        "question": "What activity is described?",
+        "options": ["Building a fence", "Planting a garden", "Painting a house", "Washing a car"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_022.mp3"
+  },
+  {
+    "id": "listening_023",
+    "transcript": "The announcement is about a train to Manchester being delayed by 30 minutes.",
+    "questions": [
+      {
+        "question": "What mode of transport is delayed?",
+        "options": ["Bus", "Airplane", "Ferry", "Train"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_023.mp3"
+  },
+  {
+    "id": "listening_024",
+    "transcript": "The speaker discusses the benefits of a balanced diet, including fruits, vegetables, and proteins.",
+    "questions": [
+      {
+        "question": "What is the topic of the talk?",
+        "options": ["Financial planning", "Exercise routines", "Healthy nutrition", "Fashion trends"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_024.mp3"
+  },
+  {
+    "id": "listening_025",
+    "transcript": "The speaker, a firefighter, describes a typical day at the fire station.",
+    "questions": [
+      {
+        "question": "What is the speaker's profession?",
+        "options": ["Police officer", "Doctor", "Firefighter", "Teacher"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_025.mp3"
+  },
+  {
+    "id": "listening_026",
+    "transcript": "An art instructor explains how to mix primary colors to create secondary colors.",
+    "questions": [
+      {
+        "question": "What artistic skill is being taught?",
+        "options": ["Sculpture", "Photography", "Color mixing", "Digital design"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_026.mp3"
+  },
+  {
+    "id": "listening_027",
+    "transcript": "The speaker discusses how artificial intelligence is changing various industries.",
+    "questions": [
+      {
+        "question": "What technology is the focus of the discussion?",
+        "options": ["The internet", "Blockchain", "Virtual Reality", "Artificial Intelligence"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_027.mp3"
+  },
+  {
+    "id": "listening_028",
+    "transcript": "The speaker is inviting friends to a birthday party next Saturday.",
+    "questions": [
+      {
+        "question": "What kind of event is being planned?",
+        "options": ["A wedding", "A birthday party", "A business meeting", "A graduation ceremony"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_028.mp3"
+  },
+  {
+    "id": "listening_029",
+    "transcript": "The librarian recommends a new fantasy novel about dragons and magic.",
+    "questions": [
+      {
+        "question": "What type of book is being recommended?",
+        "options": ["A science fiction novel", "A history book", "A fantasy novel", "A cookbook"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_029.mp3"
+  },
+  {
+    "id": "listening_030",
+    "transcript": "A marine biologist talks about the diversity of life in ocean coral reefs.",
+    "questions": [
+      {
+        "question": "What kind of environment is being described?",
+        "options": ["A desert", "A mountain range", "A tropical rainforest", "An ocean coral reef"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_030.mp3"
+  },
+  {
+    "id": "listening_031",
+    "transcript": "The speaker gives advice on how to prepare for a job interview.",
+    "questions": [
+      {
+        "question": "What is the main topic?",
+        "options": ["Writing a resume", "Job interview preparation", "Negotiating a salary", "Choosing a career"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_031.mp3"
+  },
+  {
+    "id": "listening_032",
+    "transcript": "The speaker reviews a new comedy film that was just released in cinemas.",
+    "questions": [
+      {
+        "question": "What is being reviewed?",
+        "options": ["A book", "A restaurant", "A film", "A new car"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_032.mp3"
+  },
+  {
+    "id": "listening_033",
+    "transcript": "A pet owner talks about the responsibilities of owning a dog.",
+    "questions": [
+      {
+        "question": "What animal is the topic of discussion?",
+        "options": ["Cat", "Fish", "Bird", "Dog"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_033.mp3"
+  },
+  {
+    "id": "listening_034",
+    "transcript": "The speaker is a tour guide describing the history of an old castle.",
+    "questions": [
+      {
+        "question": "What type of building is being described?",
+        "options": ["A modern skyscraper", "A museum", "An old castle", "A library"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_034.mp3"
+  },
+  {
+    "id": "listening_035",
+    "transcript": "A financial advisor explains the importance of saving money for retirement.",
+    "questions": [
+      {
+        "question": "What financial topic is being discussed?",
+        "options": ["Buying a house", "Investing in stocks", "Saving for retirement", "Applying for a loan"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_035.mp3"
+  },
+  {
+    "id": "listening_036",
+    "transcript": "The speaker describes the rules of the board game chess.",
+    "questions": [
+      {
+        "question": "What game is being explained?",
+        "options": ["Checkers", "Chess", "Monopoly", "Scrabble"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_036.mp3"
+  },
+  {
+    "id": "listening_037",
+    "transcript": "The speaker talks about learning to play the guitar.",
+    "questions": [
+      {
+        "question": "What musical instrument is mentioned?",
+        "options": ["Piano", "Violin", "Drums", "Guitar"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_037.mp3"
+  },
+  {
+    "id": "listening_038",
+    "transcript": "A news report details a recent breakthrough in medical research.",
+    "questions": [
+      {
+        "question": "What is the news report about?",
+        "options": ["Politics", "Sports", "Medical research", "The weather"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_038.mp3"
+  },
+  {
+    "id": "listening_039",
+    "transcript": "The speaker explains how to bake a chocolate cake from scratch.",
+    "questions": [
+      {
+        "question": "What is being baked?",
+        "options": ["Bread", "Cookies", "A pie", "A chocolate cake"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_039.mp3"
+  },
+  {
+    "id": "listening_040",
+    "transcript": "The speaker describes the process of recycling plastic bottles.",
+    "questions": [
+      {
+        "question": "What environmental process is described?",
+        "options": ["Composting", "Recycling plastic", "Saving water", "Planting trees"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_040.mp3"
+  },
+  {
+    "id": "listening_041",
+    "transcript": "The speaker shares their experience volunteering at a local animal shelter, helping to feed and walk the dogs.",
+    "questions": [
+      {
+        "question": "What kind of volunteer work is mentioned?",
+        "options": ["Working in a hospital", "Cleaning a park", "Helping at an animal shelter", "Tutoring students"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_041.mp3"
+  },
+  {
+    "id": "listening_042",
+    "transcript": "The speaker provides step-by-step instructions on how to assemble a wooden bookshelf from a flat-pack box.",
+    "questions": [
+      {
+        "question": "What is being assembled?",
+        "options": ["A bicycle", "A bookshelf", "A computer", "A model airplane"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_042.mp3"
+  },
+  {
+    "id": "listening_043",
+    "transcript": "An astronomer explains that the best time to watch the upcoming meteor shower is after midnight, away from city lights.",
+    "questions": [
+      {
+        "question": "What celestial event is being discussed?",
+        "options": ["A solar eclipse", "A full moon", "A planetary alignment", "A meteor shower"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_043.mp3"
+  },
+  {
+    "id": "listening_044",
+    "transcript": "A fashion expert discusses the popular colors and styles for the upcoming winter season.",
+    "questions": [
+      {
+        "question": "What is the main topic of the discussion?",
+        "options": ["Summer beachwear", "Sports uniforms", "Winter fashion trends", "Formal wedding attire"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_044.mp3"
+  },
+  {
+    "id": "listening_045",
+    "transcript": "A language teacher gives tips for learning new vocabulary, such as using flashcards and practicing every day.",
+    "questions": [
+      {
+        "question": "What advice is being given?",
+        "options": ["Tips for learning vocabulary", "How to solve math problems", "How to cook pasta", "Advice for public speaking"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_045.mp3"
+  },
+  {
+    "id": "listening_046",
+    "transcript": "The speaker recounts the Greek myth of Icarus, who flew too close to the sun.",
+    "questions": [
+      {
+        "question": "What is the subject of the story?",
+        "options": ["A historical event", "A scientific discovery", "A Greek myth", "A political debate"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_046.mp3"
+  },
+  {
+    "id": "listening_047",
+    "transcript": "A psychologist explains the concept of confirmation bias, where people favor information that confirms their beliefs.",
+    "questions": [
+      {
+        "question": "What psychological concept is explained?",
+        "options": ["The placebo effect", "Confirmation bias", "Classical conditioning", "Cognitive dissonance"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_047.mp3"
+  },
+  {
+    "id": "listening_048",
+    "transcript": "An entrepreneur talks about the challenges of starting a new coffee shop business.",
+    "questions": [
+      {
+        "question": "What type of business is being started?",
+        "options": ["A software company", "A clothing store", "A coffee shop", "A construction firm"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_048.mp3"
+  },
+  {
+    "id": "listening_049",
+    "transcript": "The speaker gives tips on overcoming stage fright, such as practicing your speech and focusing on the message.",
+    "questions": [
+      {
+        "question": "What fear is being addressed?",
+        "options": ["Fear of heights", "Fear of spiders", "Fear of flying", "Fear of public speaking"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_049.mp3"
+  },
+  {
+    "id": "listening_050",
+    "transcript": "A dentist explains that flossing daily is crucial for removing plaque between teeth.",
+    "questions": [
+      {
+        "question": "What dental hygiene practice is emphasized?",
+        "options": ["Brushing your tongue", "Using mouthwash", "Whitening your teeth", "Flossing daily"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_050.mp3"
+  },
+  {
+    "id": "listening_051",
+    "transcript": "A geologist describes how volcanoes are formed by the eruption of magma from beneath the Earth's crust.",
+    "questions": [
+      {
+        "question": "What geological formation is being described?",
+        "options": ["Rivers", "Mountains", "Volcanoes", "Caves"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_051.mp3"
+  },
+  {
+    "id": "listening_052",
+    "transcript": "An actor discusses the process of rehearsing for a new stage play.",
+    "questions": [
+      {
+        "question": "What is the actor preparing for?",
+        "options": ["A film role", "A television commercial", "A stage play", "A radio show"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_052.mp3"
+  },
+  {
+    "id": "listening_053",
+    "transcript": "A paramedic gives instructions on how to perform Cardiopulmonary Resuscitation, or CPR.",
+    "questions": [
+      {
+        "question": "What emergency procedure is being taught?",
+        "options": ["The Heimlich maneuver", "Bandaging a wound", "CPR", "Treating a burn"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_053.mp3"
+  },
+  {
+    "id": "listening_054",
+    "transcript": "An experienced camper lists essential items to pack for a weekend trip, such as a tent, sleeping bag, and a flashlight.",
+    "questions": [
+      {
+        "question": "What activity is being prepared for?",
+        "options": ["A beach holiday", "A city tour", "A camping trip", "A skiing vacation"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_054.mp3"
+  },
+  {
+    "id": "listening_055",
+    "transcript": "A cybersecurity expert explains how to create a strong password by using a mix of letters, numbers, and symbols.",
+    "questions": [
+      {
+        "question": "What is the topic of the advice?",
+        "options": ["Computer programming", "Social media marketing", "Internet safety", "Graphic design"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_055.mp3"
+  },
+  {
+    "id": "listening_056",
+    "transcript": "A music historian introduces Beethoven's Fifth Symphony, famous for its iconic four-note opening.",
+    "questions": [
+      {
+        "question": "Which composer's work is being discussed?",
+        "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_056.mp3"
+  },
+  {
+    "id": "listening_057",
+    "transcript": "A farmer talks about the process of harvesting wheat in the autumn using a large combine harvester.",
+    "questions": [
+      {
+        "question": "What crop is being harvested?",
+        "options": ["Grapes", "Apples", "Potatoes", "Wheat"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_057.mp3"
+  },
+  {
+    "id": "listening_058",
+    "transcript": "A real estate agent is showing a house, pointing out features like the modern kitchen and large backyard.",
+    "questions": [
+      {
+        "question": "What is the speaker's job?",
+        "options": ["Architect", "Interior Designer", "Real Estate Agent", "Construction Worker"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_058.mp3"
+  },
+  {
+    "id": "listening_059",
+    "transcript": "A journalist explains the importance of fact-checking and verifying sources before publishing a news story.",
+    "questions": [
+      {
+        "question": "What journalistic principle is being discussed?",
+        "options": ["Writing headlines", "Conducting interviews", "Fact-checking sources", "Taking photographs"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_059.mp3"
+  },
+  {
+    "id": "listening_060",
+    "transcript": "A law professor explains that the role of the jury is to listen to evidence and reach a verdict.",
+    "questions": [
+      {
+        "question": "What is the role of a jury?",
+        "options": ["To arrest suspects", "To present evidence", "To decide the verdict", "To sentence the defendant"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_060.mp3"
+  },
+  {
+    "id": "listening_061",
+    "transcript": "An urban planner is discussing the importance of creating green spaces like parks in cities to improve residents' well-being.",
+    "questions": [
+      {
+        "question": "What feature is mentioned as important for cities?",
+        "options": ["Taller skyscrapers", "Wider highways", "More shopping malls", "Green spaces like parks"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_061.mp3"
+  },
+  {
+    "id": "listening_062",
+    "transcript": "A literature teacher is analyzing the use of metaphors in a famous poem by Robert Frost.",
+    "questions": [
+      {
+        "question": "What literary device is being analyzed?",
+        "options": ["Rhyme scheme", "Metaphors", "Alliteration", "Character development"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_062.mp3"
+  },
+  {
+    "id": "listening_063",
+    "transcript": "An animator explains that creating a cartoon involves drawing thousands of individual frames to create the illusion of movement.",
+    "questions": [
+      {
+        "question": "What is essential for creating animation?",
+        "options": ["Live actors", "A large orchestra", "Thousands of individual frames", "A studio audience"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_063.mp3"
+  },
+  {
+    "id": "listening_064",
+    "transcript": "A marine biologist describes the annual migration of humpback whales to warmer waters to breed.",
+    "questions": [
+      {
+        "question": "What animal's migration is being discussed?",
+        "options": ["Monarch butterflies", "Wildebeest", "Humpback whales", "Arctic terns"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_064.mp3"
+  },
+  {
+    "id": "listening_065",
+    "transcript": "A botany professor explains photosynthesis, the process by which plants use sunlight to create their own food.",
+    "questions": [
+      {
+        "question": "What process allows plants to make food from sunlight?",
+        "options": ["Respiration", "Transpiration", "Pollination", "Photosynthesis"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_065.mp3"
+  },
+  {
+    "id": "listening_066",
+    "transcript": "A genealogist gives advice on how to start researching your family tree by interviewing older relatives.",
+    "questions": [
+      {
+        "question": "What is a good first step for researching a family tree?",
+        "options": ["Taking a DNA test", "Traveling to your ancestral home", "Interviewing older relatives", "Hiring a private investigator"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_066.mp3"
+  },
+  {
+    "id": "listening_067",
+    "transcript": "A magician explains that the art of illusion often relies on misdirection, which is guiding the audience's attention away from the secret action.",
+    "questions": [
+      {
+        "question": "What principle is key to magic tricks?",
+        "options": ["Genuine supernatural power", "Advanced technology", "Misdirection", "Simple luck"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_067.mp3"
+  },
+  {
+    "id": "listening_068",
+    "transcript": "An antique appraiser discusses how to identify authentic 18th-century furniture by looking at the joinery and the type of wood.",
+    "questions": [
+      {
+        "question": "What is being appraised?",
+        "options": ["Old coins", "Vintage clothing", "Antique furniture", "Rare books"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_068.mp3"
+  },
+  {
+    "id": "listening_069",
+    "transcript": "A meteorologist explains that hurricanes are categorized on a scale from 1 to 5 based on their wind speed.",
+    "questions": [
+      {
+        "question": "What is used to categorize hurricanes?",
+        "options": ["The amount of rainfall", "The direction of the storm", "Their wind speed", "The size of the storm surge"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_069.mp3"
+  },
+  {
+    "id": "listening_070",
+    "transcript": "A philosophy student is explaining the basic idea of Stoicism, which emphasizes focusing on what you can control and accepting what you cannot.",
+    "questions": [
+      {
+        "question": "What is a core idea of Stoicism?",
+        "options": ["Pursuing pleasure above all else", "Questioning everything", "Focusing on what you can control", "Seeking material wealth"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_070.mp3"
+  },
+  {
+    "id": "listening_071",
+    "transcript": "A calligraphy artist demonstrates how to use a broad-edged pen and ink to create beautiful, artistic lettering.",
+    "questions": [
+      {
+        "question": "What art form is being demonstrated?",
+        "options": ["Origami", "Pottery", "Calligraphy", "Glassblowing"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_071.mp3"
+  },
+  {
+    "id": "listening_072",
+    "transcript": "A beekeeper describes the process of safely collecting honey from a beehive, wearing a protective suit to avoid stings.",
+    "questions": [
+      {
+        "question": "What activity is the speaker describing?",
+        "options": ["Planting flowers", "Collecting honey", "Studying insect behavior", "Building a birdhouse"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_072.mp3"
+  },
+  {
+    "id": "listening_073",
+    "transcript": "A yoga instructor is guiding a class through a simple breathing exercise to help reduce stress and improve focus.",
+    "questions": [
+      {
+        "question": "What is the purpose of the breathing exercise?",
+        "options": ["To build muscle", "To increase heart rate", "To reduce stress", "To improve balance"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_073.mp3"
+  },
+  {
+    "id": "listening_074",
+    "transcript": "A film director explains the importance of creating a storyboard, which is a sequence of drawings representing the shots planned for a movie.",
+    "questions": [
+      {
+        "question": "What is a storyboard in film making?",
+        "options": ["The final movie script", "A list of actors", "A sequence of drawings for shots", "The musical score"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_074.mp3"
+  },
+  {
+    "id": "listening_075",
+    "transcript": "An environmental scientist is talking about the benefits of solar power as a clean, renewable energy source that reduces carbon emissions.",
+    "questions": [
+      {
+        "question": "What type of energy is being discussed?",
+        "options": ["Nuclear power", "Coal power", "Natural gas", "Solar power"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_075.mp3"
+  },
+  {
+    "id": "listening_076",
+    "transcript": "A software developer explains that front-end development focuses on what the user sees and interacts with on a website.",
+    "questions": [
+      {
+        "question": "What does front-end development focus on?",
+        "options": ["The user interface", "The server and database", "Cybersecurity", "The marketing plan"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_076.mp3"
+  },
+  {
+    "id": "listening_077",
+    "transcript": "A child development expert discusses how toddlers begin to rapidly expand their vocabulary between the ages of two and three.",
+    "questions": [
+      {
+        "question": "What developmental milestone is discussed?",
+        "options": ["Learning to walk", "Developing social skills", "Vocabulary expansion", "Learning to read"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_077.mp3"
+  },
+  {
+    "id": "listening_078",
+    "transcript": "A logistics manager explains how standardized shipping containers have revolutionized global trade.",
+    "questions": [
+      {
+        "question": "What has revolutionized global trade according to the speaker?",
+        "options": ["Faster airplanes", "Better roads", "Standardized shipping containers", "The internet"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_078.mp3"
+  },
+  {
+    "id": "listening_079",
+    "transcript": "A debate coach explains that a strong argument requires a clear claim, solid evidence, and logical reasoning.",
+    "questions": [
+      {
+        "question": "What are the components of a strong argument?",
+        "options": ["A loud voice and fast talking", "A complicated vocabulary", "Claim, evidence, and reasoning", "Emotional appeals"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_079.mp3"
+  },
+  {
+    "id": "listening_080",
+    "transcript": "A plumber gives a simple tip for fixing a leaky faucet, which often involves replacing a small rubber washer.",
+    "questions": [
+      {
+        "question": "What is a common cause of a leaky faucet?",
+        "options": ["High water pressure", "A worn-out rubber washer", "A clogged drain", "Rusty pipes"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_080.mp3"
+  },
+  {
+    "id": "listening_081",
+    "transcript": "A baker explains that kneading dough develops gluten, a protein that gives bread its structure and chewy texture.",
+    "questions": [
+      {
+        "question": "What is developed when kneading dough?",
+        "options": ["Sugar", "Gluten", "Yeast", "Flavor"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_081.mp3"
+  },
+  {
+    "id": "listening_082",
+    "transcript": "An astronomer is describing the asteroid belt, a region of space located between the orbits of Mars and Jupiter.",
+    "questions": [
+      {
+        "question": "Where is the asteroid belt located?",
+        "options": ["Beyond Neptune", "Between Earth and Mars", "Between Mars and Jupiter", "Near the sun"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_082.mp3"
+  },
+  {
+    "id": "listening_083",
+    "transcript": "A music teacher explains that a symphony orchestra is typically divided into four main sections: strings, woodwinds, brass, and percussion.",
+    "questions": [
+      {
+        "question": "What is a main section of a symphony orchestra?",
+        "options": ["Vocalists", "Strings", "Dancers", "Conductors"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_083.mp3"
+  },
+  {
+    "id": "listening_084",
+    "transcript": "A dietitian recommends drinking plenty of water throughout the day to stay hydrated and support healthy bodily functions.",
+    "questions": [
+      {
+        "question": "What does the dietitian recommend drinking?",
+        "options": ["Coffee", "Juice", "Water", "Soda"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_084.mp3"
+  },
+  {
+    "id": "listening_085",
+    "transcript": "A historian describes the purpose of the Great Wall of China, which was built to protect Chinese states and empires from nomadic raiders.",
+    "questions": [
+      {
+        "question": "What was the purpose of the Great Wall of China?",
+        "options": ["As a trading route", "To host festivals", "To protect against raiders", "To mark a border"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_085.mp3"
+  },
+  {
+    "id": "listening_086",
+    "transcript": "An art curator explains that Impressionist painters focused on capturing the fleeting effects of light and color in their work.",
+    "questions": [
+      {
+        "question": "What did Impressionist painters focus on?",
+        "options": ["Exact realism", "Mythological scenes", "The effects of light and color", "Political commentary"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_086.mp3"
+  },
+  {
+    "id": "listening_087",
+    "transcript": "A financial advisor defines a stock as a type of security that represents ownership in a corporation and a claim on its earnings.",
+    "questions": [
+      {
+        "question": "What signifies ownership in a corporation?",
+        "options": ["A bond", "A stock", "A deed", "A loan"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_087.mp3"
+  },
+  {
+    "id": "listening_088",
+    "transcript": "A meteorologist discusses the formation of tornadoes, which are violently rotating columns of air that extend from a thunderstorm to the ground.",
+    "questions": [
+      {
+        "question": "What is a tornado?",
+        "options": ["A type of cloud", "A rotating column of air", "A large gust of wind", "A lightning storm"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_088.mp3"
+  },
+  {
+    "id": "listening_089",
+    "transcript": "A fitness coach explains the importance of warming up before a workout to increase blood flow and prevent injury.",
+    "questions": [
+      {
+        "question": "What is a reason to warm up before a workout?",
+        "options": ["To finish faster", "To build muscle", "To prevent injury", "To get tired"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_089.mp3"
+  },
+  {
+    "id": "listening_090",
+    "transcript": "A geologist explains that volcanoes are formed when magma, which is molten rock from inside the Earth, erupts onto the surface.",
+    "questions": [
+      {
+        "question": "What is the name for molten rock inside the Earth?",
+        "options": ["Lava", "Sediment", "Magma", "Granite"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_090.mp3"
+  },
+  {
+    "id": "listening_091",
+    "transcript": "A literature professor is discussing the theme of racial injustice in Harper Lee's classic novel, 'To Kill a Mockingbird'.",
+    "questions": [
+      {
+        "question": "What is a major theme of the novel 'To Kill a Mockingbird'?",
+        "options": ["Space exploration", "High school romance", "Racial injustice", "Fantasy adventure"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_091.mp3"
+  },
+  {
+    "id": "listening_092",
+    "transcript": "A computer technician explains that a computer's Central Processing Unit, or CPU, is often called the 'brain' of the computer.",
+    "questions": [
+      {
+        "question": "What is the 'brain' of a computer?",
+        "options": ["The monitor", "The keyboard", "The CPU", "The speakers"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_092.mp3"
+  },
+  {
+    "id": "listening_093",
+    "transcript": "A biologist explains that bats use echolocation, a system of sound pulses, to navigate and find prey in the dark.",
+    "questions": [
+      {
+        "question": "How do bats navigate?",
+        "options": ["Using their sense of smell", "With their eyes", "By feeling vibrations", "Using echolocation"],
+        "answerIndex": 3
+      }
+    ],
+    "audioPath": "assets/audio/listening_093.mp3"
+  },
+  {
+    "id": "listening_094",
+    "transcript": "A travel guide mentions that the Amazon River is the longest river by volume and contains more water than any other river in the world.",
+    "questions": [
+      {
+        "question": "What is notable about the Amazon River?",
+        "options": ["It is the widest river", "It is the longest by volume", "It has the most fish species", "It is the oldest river"],
+        "answerIndex": 1
+      }
+    ],
+    "audioPath": "assets/audio/listening_094.mp3"
+  },
+  {
+    "id": "listening_095",
+    "transcript": "An architect describes how Gothic cathedrals are known for their distinctive features, such as pointed arches and flying buttresses.",
+    "questions": [
+      {
+        "question": "What is a feature of Gothic cathedrals?",
+        "options": ["Flat roofs", "Small windows", "Flying buttresses", "Concrete walls"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_095.mp3"
+  },
+  {
+    "id": "listening_096",
+    "transcript": "A psychologist explains that classical conditioning is a learning process where a neutral stimulus is paired with a stimulus that causes a response.",
+    "questions": [
+      {
+        "question": "What learning process is being described?",
+        "options": ["Problem-solving", "Operant conditioning", "Classical conditioning", "Observation"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_096.mp3"
+  },
+  {
+    "id": "listening_097",
+    "transcript": "A gardener explains that composting is a process of recycling organic matter, like food scraps and yard waste, into nutrient-rich soil.",
+    "questions": [
+      {
+        "question": "What is the purpose of composting?",
+        "options": ["To collect waste", "To create new plants", "To make nutrient-rich soil", "To attract insects"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_097.mp3"
+  },
+  {
+    "id": "listening_098",
+    "transcript": "A photographer explains that the rule of thirds is a compositional guideline that involves dividing an image into nine equal parts.",
+    "questions": [
+      {
+        "question": "What is the rule of thirds in photography?",
+        "options": ["A type of camera lens", "A method for editing photos", "A compositional guideline", "A kind of lighting technique"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_098.mp3"
+  },
+  {
+    "id": "listening_099",
+    "transcript": "A lawyer explains that a contract is a legally binding agreement between two or more parties that defines their rights and obligations.",
+    "questions": [
+      {
+        "question": "What is a contract?",
+        "options": ["A casual conversation", "A short story", "A legal agreement", "A social media post"],
+        "answerIndex": 2
+      }
+    ],
+    "audioPath": "assets/audio/listening_099.mp3"
+  },
+  {
+    "id": "listening_100",
+    "transcript": "A chemistry teacher explains that an atom, the basic unit of matter, is composed of three main particles: protons, neutrons, and electrons.",
+    "questions": [
+      {
+        "question": "What are the components of an atom?",
+        "options": ["Protons, neutrons, and electrons", "Hydrogen and oxygen", "Cells and tissues", "Molecules and compounds"],
+        "answerIndex": 0
+      }
+    ],
+    "audioPath": "assets/audio/listening_100.mp3"
+  }
+]
