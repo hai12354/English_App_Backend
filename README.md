@@ -1,4 +1,5 @@
 🎓 English Learning App — Hệ Sinh Thái Học Tiếng Anh Thông Minh
+
 Ứng dụng English Learning không chỉ là một công cụ học tập mà là một lộ trình cá nhân hóa được thiết kế để giúp người dùng làm chủ tiếng Anh từ con số 0. Dự án kết hợp sức mạnh của di động (Flutter) và trí tuệ nhân tạo ở phía server để tối ưu hóa khả năng ghi nhớ.
 
 📂 Cấu trúc dự án chi tiết
